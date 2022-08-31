@@ -76,6 +76,7 @@ main{
     min-height: 20vh;
     margin-top: 1rem;
     padding: 0.5rem;
+    font-size: 1.25rem;
 }
 
 ::placeholder{
@@ -96,6 +97,7 @@ main{
     margin: auto;
     margin-bottom: 4rem;
     font-weight: bold;
+    font-size: 1.15rem;
     padding: 0.5rem;
 }
 
