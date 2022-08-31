@@ -1,4 +1,4 @@
-# markSeven Shakespeare Translator App
+# MarkSeven Shakespeare Translator App
 ---
 
 ## This is a fun translation web app developed using Vanilla JS.
