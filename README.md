@@ -4,8 +4,11 @@
 ## This is a fun translation web app developed using Vanilla JS.
 
 ---
+### Tech Stack: HTML CSS JavaScript
 
-###This app takes input from the user in English and translates to Shakespeare's language.
+<br>
+
+#### This app takes input from the user in English and translates to Shakespeare's language.
 
 <br>
 This is how the app looks👇🏻
